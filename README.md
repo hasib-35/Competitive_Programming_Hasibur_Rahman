@@ -7,7 +7,7 @@ This repository contains all of my submitted code.
 #### Analyser:
 * [__StopStalk__](https://www.stopstalk.com/user/profile/35_Hasib)
 
-#### Online Judges ID links:
+#### My Online Judges ID links:
 
 * [__Leet Code__](https://leetcode.com/35_Hasib/)
 * [__Codeforces__](https://codeforces.com/profile/Hasibur_Rahman)
