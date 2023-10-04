@@ -20,6 +20,11 @@ This repository contains all of my submitted code.
 * [__LightOJ__](https://lightoj.com/user/hasib_35)
 
 ---
+__Code Speed Up__
+```cpp
+#define SpeedUpIO ios_base::sync_with_stdio(false); cin.tie(0);
+```
+---
 
 *__Hasibur Rahman__*
 
